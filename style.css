@@ -1,0 +1,199 @@
+*{
+    border:solid;
+}
+.header{
+    background-color:yellowgreen;
+    display:flex;
+    justify-content : space-between;
+    border: solid;
+}
+.menu{
+    display:flex ;
+    justify-content: space-between;
+    background-color: lawngreen;
+    padding : 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+body{
+    margin : 0px;
+    background-color: lightgreen;
+}
+.bodyimg{
+    background-color:forestgreen;
+} 
+.grid{
+     background-color: forestgreen;
+     border:2px solid yellow;
+     border-radius: 40px;
+}
+.origami1{
+    background-color: lawngreen;
+    border-radius: 40px;
+    font-family: fantasy;
+    position: relative;
+}
+.origami2{
+    background-color: lawngreen;
+    border-radius: 40px;
+    font-family: fantasy;
+    position: relative;
+}
+.origami3{
+    background-color: lawngreen;
+    border-radius: 40px;
+    font-family: fantasy;
+    position: relative;
+}
+.origami4{
+    border-radius: 40px;
+    font-family: fantasy;
+    position: relative;
+}
+.origami5{
+    border-radius: 40px;
+    font-family: fantasy;
+    position: relative;
+}
+.origami6{
+    border-radius: 40px;
+    font-family: fantasy;
+    position: relative;
+}
+.head{
+    background-color: forestgreen;
+    border-radius: 40px;
+}
+.follow{
+    background-color: forestgreen;
+    border-radius: 15px;
+}
+.hello{
+    border: yellow;
+    background-color: teal;
+}
+.follow{
+    border: tomato;
+    background-color: turquoise;
+}
+a:link{
+    color: white;
+}
+a:visited{
+    color: white;
+}
+.origami1 p{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50% ,-50%);
+    opacity: 0 ;
+}
+.origami2 p{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50% ,-50%);
+    opacity: 0 ;
+}
+.origami3 p{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50% ,-50%);
+    opacity: 0 ;
+}
+.origami4 p{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50% ,-50%);
+    opacity: 0 ;
+}
+.origami5 p{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50% ,-50%);
+    opacity: 0 ;
+}
+.origami6 p{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50% ,-50%);
+    opacity: 0 ;
+}
+.origami1:hover p{
+    opacity: 1;
+}
+.origami2:hover p{
+    opacity: 1;
+}
+.origami3:hover p{
+    opacity: 1;
+}
+.origami4:hover p{
+    opacity: 1;
+}
+.origami5:hover p{
+    opacity: 1;
+}
+.origami6:hover p{
+    opacity: 1;
+}
+.origami1 img{
+    opacity: 1;
+}
+.origami2 img{
+    opacity: 1;
+}
+.origami3 img{
+    opacity: 1;
+}
+.origami4 img{
+    opacity: 1;
+}
+.origami5 img{
+    opacity: 1;
+}
+.origami6 img{
+    opacity: 1;
+}
+.origami1:hover img{
+    opacity:0.5;
+}
+.origami2:hover img{
+    opacity:0.5;
+}
+.origami3:hover img{
+    opacity:0.5;
+}
+.origami4:hover img{
+    opacity:0.5;
+}
+.origami5:hover img{
+    opacity:0.5;
+}
+.origami6:hover img{
+    opacity:0.5;
+}
+.origami1 a {
+    border:none;
+}
+.origami2 a {
+    border:none;
+}
+.origami3 a {
+    border:none;
+}
+.origami4 a {
+    border:none;
+}
+.origami5 a {
+    border:none;
+}
+.origami6 a {
+    border:none;
+}
